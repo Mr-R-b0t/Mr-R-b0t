@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A passionate student at EFREI Paris.</h3>
 
-- 🔭 I’m currently working on **Movie List**
-
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **toxicsed@gmail.com**
