@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sebastien.meynet@efrei.net**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
